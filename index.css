@@ -1,48 +1,46 @@
-
-body{
-    background-color: blanchedalmond; 
-   
-   
-   
+body {
+  background-color: rgb(233, 133, 71);
 }
-h1, h2, h3 {
-	text-align: center;
+h1,
+h2,
+h3 {
+  text-align: center;
 }
 
 h1 {
-	font-size: 2.5em;
-	margin: 5px;
+  font-size: 2.5em;
+  margin: 5px;
 }
 
-h2{
-	padding: 10px;
-	width: 300px;
-	margin: 0 auto 10px;
+h2 {
+  padding: 10px;
+  width: 300px;
+  margin: 0 auto 10px;
 }
 
 h3 {
-	background-color:blanchedalmond;
-	padding: 6px;
-	width: 100px;
-	margin: 0 auto 10px;
-    border: 1px solid black;
-	border-radius: 5px;
+  background-color: rgb(255, 167, 104);
+  padding: 6px;
+  width: 100px;
+  margin: 0 auto 10px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
 .row {
-	display: flex;
-	width: 606px;
-	height: 606px;
-	flex-wrap: wrap;
-	margin: auto;
-	font-family: "Permanent Marker";
+  display: flex;
+  width: 606px;
+  height: 606px;
+  flex-wrap: wrap;
+  margin: auto;
+  font-family: "Permanent Marker";
 }
 
 .col {
-	 width: 200px;
-	 height: 200px;
-	 background-color: rgba(255, 166, 0, 0.151); 
-     border: 1px solid black;
-	 font-size: 8em;
-     text-align: center;
+  width: 200px;
+  height: 200px;
+  background-color: rgba(142, 243, 102, 0.151);
+  border: 1px solid black;
+  font-size: 8em;
+  text-align: center;
 }
